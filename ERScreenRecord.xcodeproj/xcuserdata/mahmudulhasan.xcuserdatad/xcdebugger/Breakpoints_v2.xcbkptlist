@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91711740-E8DE-4D40-8ADA-2A17AC86AC4A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F35E5ACD-6A44-4AEC-B167-E10109D5A81D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FEA874C-DC4F-4BE2-9173-C674DE82763A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "setupPickerView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF59A55A-B6A8-483A-B9C4-B642E1316684"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "setupPickerView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "251EF2E1-481E-41E2-AD8F-F5B389C96D0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "tapBroadcastPickeriOS13(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F7D2394-D83D-48AF-AD57-E60775D499AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "startBroadcast()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F7D2394-D83D-48AF-AD57-E60775D499AE - 81a0538ad7924303"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ERScreenRecord.ViewController.(startBroadcast in _14EE6BA75086F3531FD9E55245CAAE5A)() -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2F7D2394-D83D-48AF-AD57-E60775D499AE - b5a49d7ff5d6decc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ERScreenRecord.ViewController.(startBroadcast in _14EE6BA75086F3531FD9E55245CAAE5A)() -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "2F7D2394-D83D-48AF-AD57-E60775D499AE - 62cb219e0a07dad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ERScreenRecord.ViewController.(startBroadcast in _14EE6BA75086F3531FD9E55245CAAE5A)() -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D1A2650-FF61-4B32-A33F-65E1117B130E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
+            landmarkName = "broadcastActivityViewController(_:didFinishWith:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D1A2650-FF61-4B32-A33F-65E1117B130E - b867cf6f268373cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ERScreenRecord.ViewController.broadcastActivityViewController(_: __C.RPBroadcastActivityViewController, didFinishWith: Swift.Optional&lt;__C.RPBroadcastController&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "427"
+                  endingLineNumber = "427"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "9D1A2650-FF61-4B32-A33F-65E1117B130E - 2cedfc95707d5c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ERScreenRecord.ViewController.broadcastActivityViewController(_: __C.RPBroadcastActivityViewController, didFinishWith: Swift.Optional&lt;__C.RPBroadcastController&gt;, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "428"
+                  endingLineNumber = "428"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B930FA05-9DF8-4C75-99D9-7CFF772A1DBB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
+            landmarkName = "broadcastController(_:didFinishWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B930FA05-9DF8-4C75-99D9-7CFF772A1DBB - 944dcd82675c69f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ERScreenRecord.ViewController.broadcastController(_: __C.RPBroadcastController, didFinishWithError: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "444"
+                  endingLineNumber = "444"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "B930FA05-9DF8-4C75-99D9-7CFF772A1DBB - 34b15d2a9fc0090e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ERScreenRecord.ViewController.broadcastController(_: __C.RPBroadcastController, didFinishWithError: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "ERScreenRecord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmudulhasan/Downloads/ERScreenRecord/ERScreenRecord/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "445"
+                  endingLineNumber = "445"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FEE450A-A5F7-4D32-BF42-3E50ED102EF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "467"
+            endingLineNumber = "467"
+            landmarkName = "broadcastController(_:didUpdateServiceInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E409114-EC64-4D1E-AF11-8804783C5667"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ERScreenRecord/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "478"
+            endingLineNumber = "478"
+            landmarkName = "screenRecorderDidChangeAvailability(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
